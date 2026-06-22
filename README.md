@@ -205,7 +205,7 @@
 </p>
 
 <p>
-    <small>all of these are just testing and exaggeration, it will update constantly</small>
+    <small>PS: all of these are just testing and exaggeration, it will update constantly</small>
 </p>
 
 
