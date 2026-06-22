@@ -89,7 +89,6 @@
   </p>
   <br />
 
-
 <!-- EXPERIENCE SECTION -->
 <h2 align="center">💼 Experience</h2>
 
@@ -141,17 +140,15 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-    <p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuamikenteria&show_icons=true&locale=en&layout=compact" alt="kuamikenteria" />
-    </p>
-
-<p>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuamikenteria&show_icons=true&locale=en" alt="kuamikenteria" />
-    </p>
-
-<p>
-        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuamikenteria&" alt="kuamikenteria" />
-    </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuamikenteria&show_icons=true&locale=en&layout=compact" alt="kuamikenteria" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuamikenteria&show_icons=true&locale=en" alt="kuamikenteria" />
+  </p>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuamikenteria&" alt="kuamikenteria" />
+  </p>
 </div>
 
 <br />
@@ -191,7 +188,6 @@
 <p align="center">
   <i>⭐️ Thanks for visiting! Have a great day! ⭐️</i>
 </p>
-
 
 <!--
 Credits:
