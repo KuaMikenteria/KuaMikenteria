@@ -204,6 +204,11 @@
   <i>⭐️ Thanks for visiting! Have a great day! ⭐️</i>
 </p>
 
+<p>
+    <small>all of these are just testing and exaggeration, it will update constantly</small>
+</p>
+
+
 <!--
 ===========================================================
                 INSTRUCTIONS FOR YOU
