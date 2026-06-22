@@ -153,28 +153,95 @@
 
 <br />
 
-<!-- SOCIAL MEDIA FOOTER -->
+<!-- ========================================================= -->
+<!--              UPDATED CONNECT & SUPPORT SECTION             -->
+<!-- ========================================================= -->
+
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
   <i>Feel free to reach out — I'm always open to collaboration, new ideas, or just a friendly chat!</i>
 </p>
 
+<br />
+
+<!-- ========================================================= -->
+<!--              1. SOCIAL MEDIA ACCOUNTS                      -->
+<!-- ========================================================= -->
+<h3 align="center">📱 Social Media</h3>
+
 <p align="center">
-  <a href="https://github.com/KuaMikenteria">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.facebook.com/kritikomentaryo92">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 1" />
   </a>
-  <a href="https://linkedin.com/in/kim-ruzzel-leron-enteria92/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/Kua_MikEnteria">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://www.facebook.com/kimenteria1841">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook 2" />
   </a>
   <a href="https://www.instagram.com/kuya_kimenteria92/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:kimenteria92@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://x.com/Kua_MikEnteria">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://linkedin.com/in/kim-ruzzel-leron-enteria92/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+<br />
+
+<!-- ========================================================= -->
+<!--              2. CONTACTS                                  -->
+<!-- ========================================================= -->
+<h3 align="center">✉️ Contacts</h3>
+
+<p align="center">
+  <a href="mailto:kua.kimenteria01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="mailto:kua.kimenteria92@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail" />
+  </a>
+</p>
+
+<br />
+
+<!-- ========================================================= -->
+<!--              3. OTHERS                                    -->
+<!-- ========================================================= -->
+<h3 align="center">📌 Others</h3>
+
+<p align="center">
+  <a href="https://www.deviantart.com/kimenteria2001">
+    <img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white" alt="DeviantArt" />
+  </a>
+  <a href="https://github.com/KuaMikenteria">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.patreon.com/c/kritikomentariyo92">
+    <img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon" />
+  </a>
+</p>
+
+<br />
+
+<!-- ========================================================= -->
+<!--              4. DONATIONS / SUPPORT                        -->
+<!-- ========================================================= -->
+<h3 align="center">☕ Support / Donations</h3>
+
+<p align="center">
+  <a href="https://gcash.com/your-username-or-number">
+    <img src="https://img.shields.io/badge/GCash-00B4D8?style=for-the-badge&logo=googlepay&logoColor=white" alt="GCash" />
+  </a>
+  <a href="https://www.paypal.com/paypalme/kimenteria09">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+  <a href="https://buymeacoffee.com/your-username">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+  </a>
+  <a href="https://ko-fi.com/your-username">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </p>
 
