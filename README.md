@@ -1,21 +1,5 @@
 ## Hi there 👋
 
-<!--
-===========================================================
-                    PROFILE README.md
-===========================================================
-  Copy and paste the entire content below into your
-  GitHub Profile README.
-
-  📍 Where to paste:
-  Go to GitHub → Your Profile → "Edit Profile" →
-  Find the "README" section and paste this content.
-
-  🔗 Direct link:
-  https://github.com/settings/profile
-===========================================================
--->
-
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+there!+%F0%9F%91%8B;I'm+a+simple+multitasking+hobbyist;With+a+heart+of+good+governance...;I'm+a+Tradigital+Illustrator;Web+Development+Enthusiast;Computer+Programming+Amamteur;Writer+and+Reader" alt="Typing SVG" />
@@ -96,7 +80,7 @@
 <!-- ========================================================== -->
 <!-- OPTIONAL: Additional Frameworks & Tools (feel free to add) -->
 <!-- ========================================================== -->
-<!--
+
   <h3 align="center">⚙️ Additional Tools</h3>
   <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -104,7 +88,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </p>
   <br />
--->
+
 
 <!-- EXPERIENCE SECTION -->
 <h2 align="center">💼 Experience</h2>
@@ -210,31 +194,11 @@
 
 
 <!--
-===========================================================
-                INSTRUCTIONS FOR YOU
-===========================================================
-
-  1. Replace all instances of "your-username" with your
-     actual GitHub username.
-
-  2. Replace "your-email@example.com" with your email.
-
-  3. Update social media handles (LinkedIn, Twitter, etc.)
-     with your actual profile URLs.
-
-  4. Customize the experience section to match your
-     actual work history.
-
-  5. Feel free to add/remove skills, hobbies, or badges.
-
-  6. Change the theme from "radical" to any other theme:
-     dark, light, merko, gruvbox, tokyonight, onedark,
-     cobalt, synthwave, highcontrast, dracula.
-
-  7. The typing SVG animation is powered by:
+Credits:
+  1. The typing SVG animation is powered by:
      https://readme-typing-svg.demolab.com
 
-  8. The bottom wave is powered by:
+  2. The bottom wave is powered by:
      https://capsule-render.vercel.app
 
 ===========================================================
