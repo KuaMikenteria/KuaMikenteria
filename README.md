@@ -93,16 +93,26 @@
 <!-- EXPERIENCE SECTION -->
 <h2 align="center">💼 Experience</h2>
 
-<p align="center">
-  <strong>Web Developer</strong> — <em>Freelance / Self-Employed</em><br />
+<p align="left">
+  <strong>Amateurish Web Developer</strong> — <em>Freelance / Self-Employed</em><br />
   <i>2020 – Present</i>
 </p>
 
-<p align="center">
-  • Designed and developed 15+ responsive websites for clients across various industries.<br />
-  • Collaborated with designers to implement pixel-perfect UI/UX designs.<br />
-  • Optimized website performance, achieving 30% faster load times.<br />
-  • Built custom web applications using vanilla JavaScript and modern frameworks.
+<p align="left">
+  • Designed and developed 15+ responsive websites just for school and other stuffs for fun.<br />
+  • Explored different tools for the best preferred, most recommended, near pixel-perfect UX/UI designs.<br />
+  • Optimized website performance.<br />
+  • Built custom web applications using HTML, CSS, and JavaScripts and other frameworks.
+</p>
+
+<p align="left">
+  <strong>Traidgital</strong> — <em>Freelance / Self-Employed</em><br />
+  <i>2019 – Present</i>
+</p>
+
+<p align="left">
+  • Designed artworks with different media, including graphic and web designing.<br />
+  • Explored different tools with wide varieties of pencil, ink, and digital media.<br />
 </p>
 
 <br />
@@ -116,7 +126,8 @@
   <img src="https://img.shields.io/badge/📚-Reading-1e90ff?style=flat-square" alt="Reading" />
   <img src="https://img.shields.io/badge/✈️-Traveling-ff6347?style=flat-square" alt="Traveling" />
   <img src="https://img.shields.io/badge/🎵-Music-32cd32?style=flat-square" alt="Music" />
-  <img src="https://img.shields.io/badge/🏋️-Fitness-ff8c00?style=flat-square" alt="Fitness" />
+  <img src="https://img.shields.io/badge/🖊️-Writing-ff8c00?style=flat-square" alt="Writing" />
+  <img src="https://img.shields.io/badge/✍️-Illustrating-6a0dad?style=flat-square" alt="Illustrating" />
 </p>
 
 <p align="center">
@@ -129,17 +140,19 @@
 <!-- GITHUB STATS -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuamikenteria&show_icons=true&locale=en&layout=compact" alt="kuamikenteria" />
-</p>
+<div align="center">
+    <p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuamikenteria&show_icons=true&locale=en&layout=compact" alt="kuamikenteria" />
+    </p>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuamikenteria&show_icons=true&locale=en" alt="kuamikenteria" />
-</p>
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuamikenteria&show_icons=true&locale=en" alt="kuamikenteria" />
+    </p>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuamikenteria&" alt="kuamikenteria" />
-</p>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuamikenteria&" alt="kuamikenteria" />
+    </p>
+</div>
 
 <br />
 
@@ -151,28 +164,19 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/KuaMikenteria">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/your-username">
+  <a href="https://linkedin.com/in/kim-ruzzel-leron-enteria92/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-username">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  <a href="https://x.com/Kua_MikEnteria">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=darkgray" alt="X" />
   </a>
-  <a href="https://instagram.com/your-username">
+  <a href="https://www.instagram.com/kuya_kimenteria92/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://youtube.com/@your-username">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://dev.to/your-username">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://hashnode.com/@your-username">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:kimenteria92@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -186,10 +190,6 @@
 
 <p align="center">
   <i>⭐️ Thanks for visiting! Have a great day! ⭐️</i>
-</p>
-
-<p>
-    <small>PS: all of these are just testing and exaggeration, it will update constantly</small>
 </p>
 
 
