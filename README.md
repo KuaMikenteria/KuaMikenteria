@@ -141,13 +141,13 @@
 
 <div align="center">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuamikenteria&show_icons=true&locale=en&layout=compact" alt="kuamikenteria" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KuaMikenteria&show_icons=true&locale=en&layout=compact" alt="KuaMikenteria" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kuamikenteria&show_icons=true&locale=en" alt="kuamikenteria" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KuaMikenteria&show_icons=true&locale=en" alt="KuaMikenteria" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuamikenteria&" alt="kuamikenteria" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KuaMikenteria&" alt="KuaMikenteria" />
   </p>
 </div>
 
