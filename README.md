@@ -18,7 +18,7 @@
 
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+there!+%F0%9F%91%8B;I'm+a+Web+Developer;Full-Stack+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=36BCF7&center=true&vCenter=true&width=600&lines=Hello+there!+%F0%9F%91%8B;I'm+an+Illustrator;Web+Development+Enthusiast;Writer" alt="Typing SVG" />
 </p>
 
 <!-- ABOUT ME -->
