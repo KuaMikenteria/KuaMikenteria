@@ -263,10 +263,10 @@
   <a href="https://www.paypal.com/paypalme/kimenteria09">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
-  <a href="https://buymeacoffee.com/your-username">
+  <a href="https://buymeacoffee.com/kritikomentariyo92">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
   </a>
-  <a href="https://ko-fi.com/your-username">
+  <a href="https://ko-fi.com/kritikomento92">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
   </a>
 </p>
