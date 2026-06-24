@@ -115,12 +115,12 @@
    - crayons (advance), <br />
    - pastel (semi-beginner), and <br />
    - watercoloring (beginner).<br /> <br />
-  • Explored different tools with wide varieties of traditional media, including:
+  • Explored different tools with wide varieties of traditional media, including: <br />
    - portraits (intermediate), <br />
    - low-fidelity wireframes (intermediate), <br />
    - anime (advance), <br />
    - cartoon (advance), <br />
-   - graphic designing [logo (intermediate), architectural design (intermediate), book design (intermediate)] .<br />
+   - graphic designing [logo (intermediate), architectural design (intermediate), book design (intermediate), comics (intermediate), political satire (intermediate)].<br />
 </p>
 
 <p align="left">
@@ -131,13 +131,13 @@
 <p align="left">
   • Designed artworks with different media, including, but not limited to: <br />
    - animation (beginner)
-  • Explored different tools with wide varieties of traditional media, including:
-   - portraits (semi-beginner), 
-   - high-fidelity wireframes (intermediate),
-   - web design (intermediate)
-   - anime (advance), 
-   - cartoon (advance), 
-   - graphic designing [logo (intermediate), architectural design (semi-beginner), book design (semi-beginner)] .<br />
+  • Explored different tools with wide varieties of traditional media, including: <br />
+   - portraits (semi-beginner), <br />
+   - high-fidelity wireframes (intermediate), <br />
+   - web design (intermediate), <br />
+   - anime (advance), <br />
+   - cartoon (advance), <br />
+   - graphic designing [logo (intermediate), architectural design (semi-beginner), book design (semi-beginner), comics (intermediate), political satire (intermediate)].
 </p>
 
 <br />
