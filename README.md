@@ -90,7 +90,7 @@
 <!-- EXPERIENCE SECTION -->
 <h2 align="center">💼 Experience</h2>
 
-<p align="left">
+<p align="center">
   <strong>Amateurish Web Developer</strong> — <em>Freelance / Self-Employed</em><br />
   <i>2020 – Present</i>
 </p>
@@ -102,7 +102,7 @@
   • Built custom web applications using HTML, CSS, and JavaScripts and other frameworks.
 </p>
 
-<p align="left">
+<p align="center">
   <strong>Traditional Artist</strong> — <em>Freelance / Self-Employed</em><br />
   <i>2016 – Present</i>
 </p>
@@ -123,7 +123,7 @@
    - graphic designing [logo (intermediate), architectural design (intermediate), book design (intermediate), comics (intermediate), political satire (intermediate)].<br />
 </p>
 
-<p align="left">
+<p align="center">
   <strong>Digital Artist</strong> — <em>Freelance / Self-Employed</em><br />
   <i>2019 – Present</i>
 </p>
