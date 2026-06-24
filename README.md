@@ -9,9 +9,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm a passionate <strong>Web Developer</strong> who loves building digital experiences that are both functional and beautiful. 
-  With a strong foundation in front-end technologies and a growing expertise in back-end development, 
-  I enjoy turning complex problems into elegant, user-friendly solutions.
+  I'm a simple a passionate <strong>Multitaskng Hobbyist</strong> who loves about computer-related technologies - from web development, computer programming, and technical stuffs; enjoys building digital experiences that are both functional and beautiful for fun, draws everything from both traditional and digital media with all of my based of my abilities, writing both academic and creative, and as ordinary citizen wishes for national good governance.
 </p>
 
 <p align="center">
