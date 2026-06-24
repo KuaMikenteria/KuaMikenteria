@@ -109,17 +109,17 @@
 
 <p align="left">
   • Designed artworks with different media, mostly:
-   - ink (advance), 
-   - pencil (advance), 
-   - painting (beginner), 
-   - crayons (advance),
-   - pastel (semi-beginner), and 
-   - watercoloring (beginner).<br />
+   - ink (advance), <br />
+   - pencil (advance), <br />
+   - painting (beginner), <br />
+   - crayons (advance), <br />
+   - pastel (semi-beginner), and <br />
+   - watercoloring (beginner).<br /> <br />
   • Explored different tools with wide varieties of traditional media, including:
-   - portraits (intermediate), 
-   - low-fidelity wireframes (intermediate), 
-   - anime (advance), 
-   - cartoon (advance), 
+   - portraits (intermediate), <br />
+   - low-fidelity wireframes (intermediate), <br />
+   - anime (advance), <br />
+   - cartoon (advance), <br />
    - graphic designing [logo (intermediate), architectural design (intermediate), book design (intermediate)] .<br />
 </p>
 
