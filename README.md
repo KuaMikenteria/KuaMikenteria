@@ -186,7 +186,7 @@
 <h2 align="center">📫 Let's Connect</h2>
 
 <p align="center">
-  <i>Feel free to reach out — I'm always open to collaboration, new ideas, or just a friendly chat!</i>
+  <i>Feel free to reach out — I'm always open to commissions, new ideas, or just a friendly chat!</i>
 </p>
 
 <br />
@@ -280,6 +280,11 @@
 
 <p align="center">
   <i>⭐️ Thanks for visiting! Have a great day! ⭐️</i>
+</p>
+ <br />
+ 
+<p align="left">
+  <strong>PS:</strong> You notice everything... I am not originally, fully develop computer programmer and web developer, I just discovered it for new experience...
 </p>
 
 <!--
