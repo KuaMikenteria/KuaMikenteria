@@ -108,7 +108,7 @@
 </p>
 
 <p align="left">
-  • Designed artworks with different media, mostly:
+  • Designed artworks with different media, mostly: <br />
    - ink (advance), <br />
    - pencil (advance), <br />
    - painting (beginner), <br />
@@ -129,8 +129,8 @@
 </p>
 
 <p align="left">
-  • Designed artworks with different media, including, but not limited to: 
-   - animation (amateurishly beginner)
+  • Designed artworks with different media, including, but not limited to: <br />
+   - animation (beginner)
   • Explored different tools with wide varieties of traditional media, including:
    - portraits (semi-beginner), 
    - high-fidelity wireframes (intermediate),
