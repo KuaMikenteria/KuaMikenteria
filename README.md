@@ -103,13 +103,41 @@
 </p>
 
 <p align="left">
-  <strong>Traidgital</strong> — <em>Freelance / Self-Employed</em><br />
+  <strong>Traditional Artist</strong> — <em>Freelance / Self-Employed</em><br />
+  <i>2016 – Present</i>
+</p>
+
+<p align="left">
+  • Designed artworks with different media, mostly:
+   - ink (advance), 
+   - pencil (advance), 
+   - painting (beginner), 
+   - crayons (advance),
+   - pastel (semi-beginner), and 
+   - watercoloring (beginner).<br />
+  • Explored different tools with wide varieties of traditional media, including:
+   - portraits (intermediate), 
+   - low-fidelity wireframes (intermediate), 
+   - anime (advance), 
+   - cartoon (advance), 
+   - graphic designing [logo (intermediate), architectural design (intermediate), book design (intermediate)] .<br />
+</p>
+
+<p align="left">
+  <strong>Digital Artist</strong> — <em>Freelance / Self-Employed</em><br />
   <i>2019 – Present</i>
 </p>
 
 <p align="left">
-  • Designed artworks with different media, including graphic and web designing.<br />
-  • Explored different tools with wide varieties of pencil, ink, and digital media.<br />
+  • Designed artworks with different media, including, but not limited to: 
+   - animation (amateurishly beginner)
+  • Explored different tools with wide varieties of traditional media, including:
+   - portraits (semi-beginner), 
+   - high-fidelity wireframes (intermediate),
+   - web design (intermediate)
+   - anime (advance), 
+   - cartoon (advance), 
+   - graphic designing [logo (intermediate), architectural design (semi-beginner), book design (semi-beginner)] .<br />
 </p>
 
 <br />
