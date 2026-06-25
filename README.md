@@ -12,11 +12,15 @@
   I'm a simple a passionate <strong>Multitaskng Hobbyist</strong> who loves about computer-related technologies - from web development, computer programming, and technical stuffs; enjoys building digital experiences that are both functional and beautiful for fun, draws everything from both traditional and digital media with all of my based of my abilities, writing both academic and creative, and as ordinary citizen wishes for national good governance.
 </p>
 
+<!--
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" alt="Focus" />
   <img src="https://img.shields.io/badge/Available%20for-Freelance-yellow" alt="Freelance" />
 </p>
+
+ -->
 
 <br />
 
