@@ -92,7 +92,7 @@
   <br />
 
 <!-- EXPERIENCE SECTION -->
-<h2 align="center">💼 Experience</h2>
+<h2 align="center">💼 Experience and <strong>My Main Niche</strong>strong></h2>
 
 <p align="center">
   <strong>Amateurish Web Developer</strong> — <em>Freelance / Self-Employed</em><br />
