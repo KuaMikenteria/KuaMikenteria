@@ -9,7 +9,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm a simple a passionate <strong>Multitaskng Hobbyist</strong> who loves about computer-related technologies - from web development as my main niche; enjoys building digital experiences that are both functional and beautiful for fun, draws everything from both traditional and digital media with all of my based of my abilities, writing both academic and creative, and as ordinary citizen wishes for local and national good governance.
+  I'm a simple a passionate <strong>Multitaskng Hobbyist</strong> who loves about computer-related technologies - from web development as my main niche; enjoys building digital experiences that are both functional and beautiful for fun, draws everything from both traditional and digital media with all of my based of my abilities (also my main niche), writing both academic and creative, and as ordinary citizen wishes for local and national good governance.
 </p>
 
 <!--
