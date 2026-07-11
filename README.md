@@ -49,12 +49,15 @@
 <!-- ========================================================== -->
 <!-- 2. COMPUTER PROGRAMMING — JavaScript, Python                -->
 <!-- ========================================================== -->
+
+<!---
 <h3 align="center">💻 Computer Programming</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </p>
+--->
 
 <p align="center">
   <i>Writing clean, efficient, and maintainable code across multiple paradigms.</i>
@@ -171,13 +174,13 @@
 
 <div align="center">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KuaMikenteria&show_icons=true&locale=en&layout=compact" alt="KuaMikenteria" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?KuaMikenteria=octocat&show_icons=true&locale=en&layout=compact" alt="KuaMikenteria" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=KuaMikenteria&show_icons=true&locale=en" alt="KuaMikenteria" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?KuaMikenteria=octocat&show_icons=true&locale=en" alt="KuaMikenteria" />
   </p>
   <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KuaMikenteria&" alt="KuaMikenteria" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KuaMikenteria" alt="KuaMikenteria" />
   </p>
 </div>
 
