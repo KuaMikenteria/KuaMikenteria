@@ -169,7 +169,7 @@
 
 <br />
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -183,7 +183,8 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KuaMikenteria" alt="KuaMikenteria" />
   </p>
 </div>
-
+ -->
+ 
 <br />
 
 <!-- ========================================================= -->
