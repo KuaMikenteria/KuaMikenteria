@@ -265,9 +265,9 @@
 <h3 align="center">☕ Support / Donations</h3>
 
 <p align="center">
-  <a href="https://gcash.com/your-username-or-number">
+  <!-- <a href="https://gcash.com/your-username-or-number">
     <img src="https://img.shields.io/badge/GCash-00B4D8?style=for-the-badge&logo=googlepay&logoColor=white" alt="GCash" />
-  </a>
+  </a> -->
   <a href="https://www.paypal.com/paypalme/kimenteria09">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>
